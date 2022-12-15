@@ -785,7 +785,7 @@ RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61
 
 # 4.	VIDEO
 
-
+https://www.youtube.com/watch?v=VF_qr9VUwTn
 
 # 5.	CONCLUSIONES
 
@@ -800,8 +800,6 @@ RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61
 •	Las conversiones de una fuente de voltaje con una fuente de corriente se aplica la ley de Ohm pero en este caso la resistencia de la formula hace referencia a la resistencia interna de la fuente de voltaje.
 
 •	En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 7 y 8, donde comprobamos lo importante que es los métodos de análisis de la combinación de los resistores en serie y en paralelo dentro de circuitos en serie-paralelo; y los teoremas de Thévenin y de Norton que vuelven más fácil su resolución.
-
-
 
 # 6.	Bibliografía
 Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación.
