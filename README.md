@@ -789,6 +789,18 @@ RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61
 
 # 5.	CONCLUSIONES
 
+•	Un circuito en serie-paralelo consiste en combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo. De igual manera es de suma importante ser capaz de identificar la forma en que están organizados los componentes en un circuito en función de sus relaciones en serie y en paralelo.
+
+•	Cuando tenemos combinaciones tanto en serie como en paralelo dentro del mismo circuito y se aplica los métodos de análisis de circuitos en serie y circuitos en paralelo, el divisor de voltaje sometidos a carga es importante, ya que este tipo de circuito se encuentra en muchas situaciones prácticas. Se utiliza los teoremas y las conversiones para facilitar el análisis de ciertos tipos de circuitos, junto con a la ley de Ohm y las leyes de Kirchhoff. Los teoremas de Thévenin y de Norton ponen a nuestro alcance métodos fáciles para reducir un circuito a una forma equivalente simple.
+
+•	Se sabe que los voltímetros deben conectarse en paralelo con un resistor para medir el voltaje entre los extremos del resistor. Debido a su resistencia interna, un voltímetro aplica carga al circuito el cual afecta en cierto grado el voltaje que se esté midiendo. 
+
+•	El puente de Wheatstone permite saber el valor de una resistencia con mayor exactitud y cuando se presenta el caso desequilibrado puede medir varios tipos de magnitud física.
+
+•	Las conversiones de una fuente de voltaje con una fuente de corriente se aplica la ley de Ohm pero en este caso la resistencia de la formula hace referencia a la resistencia interna de la fuente de voltaje.
+
+•	En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 7 y 8, donde comprobamos lo importante que es los métodos de análisis de la combinación de los resistores en serie y en paralelo dentro de circuitos en serie-paralelo; y los teoremas de Thévenin y de Norton que vuelven más fácil su resolución.
+
 
 
 # 6.	Bibliografía
